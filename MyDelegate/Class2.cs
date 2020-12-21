@@ -1,9 +1,5 @@
 ﻿namespace MyDelegate
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
     /// <summary>
     /// In that class we describe Method Calc and Result.
     /// </summary>
