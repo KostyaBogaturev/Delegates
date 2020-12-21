@@ -13,6 +13,7 @@
         /// <param name="args">standart argument.</param>
         static void Main(string[] args)
         {
+
             var first = new Class1();
             var second = new Class2();
             first.showHendler = Show;
